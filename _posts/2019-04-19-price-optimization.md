@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Price optimization: maximizing revenue/profit
+title: Price optimization: maximizing revenue
 ---
 
 ### Problem statement
@@ -14,14 +14,14 @@ So ?
 
 With a simple example let’s examine how to optimization price to maximize revenue/profit.
 
-`Import libraries
-from __future__ import print_function
-import numpy as np
-import pandas as pd
-from pandas import DataFrame
-import matplotlib.pyplot as plt
-import seaborn as sns
-import statsmodels.api as sm
-from statsmodels.compat import lzip
-from statsmodels.formula.api import ols
-%matplotlib inline`
+  Import libraries
+  from __future__ import print_function
+  import numpy as np
+  import pandas as pd
+  from pandas import DataFrame
+  import matplotlib.pyplot as plt
+  import seaborn as sns
+  import statsmodels.api as sm
+  from statsmodels.compat import lzip
+  from statsmodels.formula.api import ols
+  %matplotlib inline`
