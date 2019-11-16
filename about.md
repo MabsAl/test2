@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: About
 ---
 
 This is an about page about this awesome site.
