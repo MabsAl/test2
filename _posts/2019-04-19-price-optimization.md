@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Price optimization: maximizing revenue
+title: Price optimization to maximizing revenue
 ---
 
 ### Problem statement
@@ -13,7 +13,7 @@ So the big question is: if higher price means sales down and at lower price reve
 So ?
 
 With a simple example let’s examine how to optimization price to maximize revenue/profit.
-
+---
   Import libraries
   from __future__ import print_function
   import numpy as np
@@ -25,3 +25,4 @@ With a simple example let’s examine how to optimization price to maximize reve
   from statsmodels.compat import lzip
   from statsmodels.formula.api import ols
   %matplotlib inline`
+---
