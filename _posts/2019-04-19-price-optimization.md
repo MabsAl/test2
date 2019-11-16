@@ -14,7 +14,7 @@ So ?
 
 With a simple example let’s examine how to optimization price to maximize revenue/profit.
 
-```
+```python
 Import libraries
 from __future__ import print_function
 import numpy as np
